@@ -25,13 +25,14 @@ After creating the backup playlist, the script copies all the songs from the "Di
 # <span style="font-size:20px">:key: Spotify Client Information</span>
 To use this script, you need to set up your Spotify client information:
 
+```bash
 python
 
 client_id = 'YOUR_CLIENT_ID'
 client_secret = 'YOUR_CLIENT_SECRET'
 redirect_uri = 'http://localhost:8080'
 scope = 'playlist-read-private playlist-modify-public playlist-modify-private'
-
+```
 # <span style="font-size:20px">:floppy_disk: Code Execution</span>
 
 To run the script, execute the following command:
