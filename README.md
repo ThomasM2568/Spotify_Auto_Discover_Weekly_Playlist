@@ -48,4 +48,4 @@ Please ensure that you have your Spotify credentials and authentication details 
 
 If you encounter any issues or errors, the script will display appropriate error messages to help troubleshoot the problem. :warning:
 
-Please note that this script was made by Thomas Mirbey. If you have any questions or need further assistance, feel free to reach out via Discord (tfx_) or visit my GitHub [GitHub Repository](https://github.com/ThomasM2568]. Happy music listening! :musical_note:
+Please note that this script was made by Thomas Mirbey. If you have any questions or need further assistance, feel free to reach out via Discord (tfx_) or visit my GitHub https://github.com/ThomasM2568. Happy music listening! :musical_note:
