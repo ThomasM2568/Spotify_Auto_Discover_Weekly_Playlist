@@ -1,4 +1,4 @@
-**Weekly Backup Playlist for "Discover Weekly" on Spotify :musical_note::sparkles:**
+<h1>**Weekly Backup Playlist for "Discover Weekly" on Spotify :musical_note::sparkles:**</h1>
 
 This Python script automates the process of creating a weekly backup playlist of the "Discover Weekly" playlist on Spotify. :rocket: It uses the Spotipy library to interact with the Spotify Web API.
 ##:bookmark_tabs: Requirements
