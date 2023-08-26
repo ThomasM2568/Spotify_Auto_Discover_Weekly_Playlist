@@ -28,8 +28,6 @@ To use this script, you need to set up your Spotify client information:
 ```bash
 client_id = 'YOUR_CLIENT_ID'
 client_secret = 'YOUR_CLIENT_SECRET'
-redirect_uri = 'http://localhost:8080'
-scope = 'playlist-read-private playlist-modify-public playlist-modify-private'
 ```
 # <span style="font-size:20px">:floppy_disk: Code Execution</span>
 
